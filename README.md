@@ -5,5 +5,4 @@ paizaとか実力を試しながらエンジニア採用のページやサービ
 基本的には[index.md](https://nomurayawork.github.io/githubpages/)がメインです。
 
 # 参考
-こちらは転職向けではありませんが、作成途中のアカウントのページです。
-[shimajima-eiji](https://shimajima-eiji.github.io/githubpages/)
+こちらは転職向けではありませんが、[作成途中のアカウントのページ](https://github.nomuraya.work/)です。
